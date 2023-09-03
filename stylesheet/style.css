@@ -1,0 +1,28 @@
+* {
+    background-color: green;
+}
+
+.main-header {
+    text-align: center;
+}
+
+.recipe-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.recipe {
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    font-size: 22px;
+}
+
+.recipe-img {
+    height: auto;
+    width: 250px;
+    align-self: center;
+    margin: 15px 20px;
+    border: 1px solid black;
+}
