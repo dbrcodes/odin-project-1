@@ -1,4 +1,4 @@
-# odin-recipes
+# odin-project-1
 TOP project #1
 
 Welcome to the first coding project of the foundation modules on The Odin Project
